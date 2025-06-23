@@ -11,6 +11,7 @@ The goal is to divide customers into distinct groups for better **marketing stra
 # Project Structure
 
 customer-segmentation
+
 │
 
 ├── code.py      # Main clustering code
