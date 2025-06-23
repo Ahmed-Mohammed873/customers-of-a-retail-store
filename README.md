@@ -12,9 +12,12 @@ The goal is to divide customers into distinct groups for better **marketing stra
 
 customer-segmentation
 │
+
 ├── code.py      # Main clustering code
 
+
 ├── requirements.txt     # Required Python packages
+
 
 └── README.md        # Project description
 
